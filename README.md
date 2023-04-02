@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am a software engineer that mainly codes full stack applications on the web. I have coded both web 3 and standard web apps and continue to try new tech here on my github. Checkout my portfolio site to see some of them or just checkout the public repos on my account.
 
 <!--
 **nivek724/nivek724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
